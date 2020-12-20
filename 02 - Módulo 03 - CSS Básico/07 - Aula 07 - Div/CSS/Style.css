@@ -1,0 +1,32 @@
+body{
+
+}
+
+#Titulo{
+	color: #70e5ae;
+	}
+ 
+#subdiv{
+	color: white;
+	background-color:rgba(0, 0, 0, 0.5);
+	}
+ 
+#paragrafos{
+	color: gray;
+	background: url(../image/canada.jpg) center/cover no-repeat fixed;	
+
+<!--
+	background-image: url(../image/canada.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+-->
+	
+	<!-- background-position: center; -->
+	
+	
+}
+	
+.text_green{
+	color: green;
+	}

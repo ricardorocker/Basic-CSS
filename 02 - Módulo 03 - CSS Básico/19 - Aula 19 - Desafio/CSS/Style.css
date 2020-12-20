@@ -1,0 +1,32 @@
+body{
+font-family: Times;
+background-color: black;
+}
+
+#container{
+width: 400px;
+height: 200px;
+
+background-image: url('../Image/background.png');
+background-size: cover;
+
+}
+
+.content{
+	font-family: Helvetica;
+	padding:10px;
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
+	
+ul{
+	list-style-type: none;
+}
+	
+#nome{
+	padding-left:10px;
+	font-weight:10000;
+}

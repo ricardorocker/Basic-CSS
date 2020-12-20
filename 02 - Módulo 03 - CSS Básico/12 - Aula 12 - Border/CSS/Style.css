@@ -1,0 +1,107 @@
+body{
+
+}
+
+#Titulo{
+	color: #70e5ae;
+	}
+ 
+#subdiv{
+	color: white;
+	background-color:rgba(0, 0, 0, 0.5);
+	}
+ 
+#paragrafos{
+	color: gray;
+	background: url(../image/canada.jpg) center/cover no-repeat fixed;	
+
+<!--
+	background-image: url(../image/canada.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+-->
+	
+	<!-- background-position: center; -->
+		
+}
+	
+.text_green{
+	color: green;
+	}
+	
+#cm{
+	color: white;
+	background-color: blue;
+	width:1cm;
+	height:1cm;
+	}
+	
+#mm{
+	color: white;
+	background-color: red;
+	width:10mm;
+	height:10mm;
+	}
+
+#in{
+	color: white;
+	background-color: blue;
+	width:0.5in;
+	height:0.5in;
+	}
+	
+#px{
+	color: white;
+	background-color: red;
+	width:40px;
+	height:40px;
+	}
+	
+#pt{
+	color: white;
+	background-color: blue;
+	width:30pt;
+	height:30pt;
+	}
+	
+#pc{
+	color: white;
+	background-color: red;
+	width:3pc;
+	height:3pc;
+	}
+	
+/*html{
+	font-size: 20px;
+}*/
+	
+.container{
+	font-size: 20px;
+	
+	width: 50vw;
+	background: red;	
+}
+
+.inside{
+	font-size: 2em;
+	
+	width: 50vh;
+	background: blue;
+}
+
+.subinside{
+	font-size: 1rem;
+	
+	width: 50%;
+	background: gray;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
